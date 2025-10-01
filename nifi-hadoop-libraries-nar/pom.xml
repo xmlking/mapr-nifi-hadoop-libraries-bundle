@@ -21,7 +21,7 @@
     </repositories>
 
     <properties>
-        <mapr.version>2.7.0-mapr-1602</mapr.version>
+        <mapr.version>3.4.0</mapr.version>
     </properties>
 
     <parent>
